@@ -52,7 +52,3 @@ If you're wondering how this compares to a project like [YOURLS](https://yourls.
 | Simplicity but real click tracking | **MinURL** |
 | Full plugin ecosystem              | **YOURLS** |
 | Rich analytics + REST API          | **YOURLS** |
-
-## Screenshot
-
-![Example of MinURL interface](screenshot.png)
